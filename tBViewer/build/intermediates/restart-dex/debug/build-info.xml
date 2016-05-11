@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="7859793323062" >
+
+    <task
+        name="javac"
+        duration="367" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="342" />
+    <task
+        name="verifier"
+        duration="47" />
+
+    <artifact
+        location="D:\Users\luoding\AndroidStudioProjects\TestDemo\tBViewer\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="6589879260834" >
+        <artifact
+            location="D:\Users\luoding\AndroidStudioProjects\TestDemo\tBViewer\build\outputs\apk\tBViewer-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="7859793323062" >
+        <artifact
+            location="D:\Users\luoding\AndroidStudioProjects\TestDemo\tBViewer\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

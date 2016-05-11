@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Users\\luoding\\AndroidStudioProjects\\TestDemo\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b.png",
+        "source": "D:\\Users\\luoding\\AndroidStudioProjects\\TestDemo\\tBViewer\\src\\main\\res\\drawable-xhdpi\\b.png"
+    },
+    {
+        "merged": "D:\\Users\\luoding\\AndroidStudioProjects\\TestDemo\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\luoding\\AndroidStudioProjects\\TestDemo\\tBViewer\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\luoding\\AndroidStudioProjects\\TestDemo\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a.png",
+        "source": "D:\\Users\\luoding\\AndroidStudioProjects\\TestDemo\\tBViewer\\src\\main\\res\\drawable-xhdpi\\a.png"
+    }
+]
